@@ -1,4 +1,4 @@
-module l-log
+module github.com/LiRonaldo/l-log
 
 go 1.13
 
